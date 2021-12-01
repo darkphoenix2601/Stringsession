@@ -2,7 +2,7 @@
   "name": "Kabeer Session Bot",
   "logo": "https://telegra.ph/file/e677cf0a08017d8ca0915.jpg",
   "description": "Session Gen Bot.",
-  "repository": "https://github.com/vaibhavchandra12/session",
+  "repository": "https://github.com/darkphoenix2601/Stringsession",
   "env": {
     "BOT_TOKEN": {
       "description": "Bot Token, Get It From @BotFather.",
