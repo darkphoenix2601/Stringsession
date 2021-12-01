@@ -1,0 +1,24 @@
+{
+  "name": "Kabeer Session Bot",
+  "logo": "https://telegra.ph/file/e677cf0a08017d8ca0915.jpg",
+  "description": "Session Gen Bot.",
+  "repository": "https://github.com/vaibhavchandra12/session",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Bot Token, Get It From @BotFather.",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Api ID get it from my.telegram.org.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Api Hash get it from my.telegram.org.",
+      "value": ""
+    },
+    "LOG_CHANNEL": {
+      "description": "Log channel id",
+      "value": ""
+    }
+  }
+}
