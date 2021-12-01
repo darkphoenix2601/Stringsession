@@ -7,10 +7,10 @@ from pyrogram.types import (
 from kabeer import kabeercmd
 
 START_MESSAGE = (
-        'Hello there[!](https://telegra.ph/file/e677cf0a08017d8ca0915.jpg)\n'
+        'Hello there[!](https://telegra.ph/file/25b9742e3ca755306cd94.png)\n'
         'I can generate session of [pyrogram](https://t.me/pyrogram) and [telethon](https://t.me/TelethonUpdates).\n\n'
         '**Note:** We are not responsible for any harm, And we do not collect your credentials.\n'
-        'By [RhythmOfficial](https://t.me/RhythmOfficial)'
+        'By [Miss Akshi Official](https://t.me/Miss_Akshi_updates)'
     )
 
 KEYBOARD = InlineKeyboardMarkup(
